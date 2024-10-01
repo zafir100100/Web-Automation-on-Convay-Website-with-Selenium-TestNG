@@ -32,6 +32,14 @@ https://github.com/user-attachments/assets/84468428-5d54-4b49-abb9-3fbae3e329ee
   ```     
 
 ## Allure Report Screenshots:
+![image](https://github.com/user-attachments/assets/64fdb698-84af-443b-9f92-aebbeee84479)
+![image](https://github.com/user-attachments/assets/7c3209ab-a983-49e4-b37a-b8a5656d4265)
+![image](https://github.com/user-attachments/assets/0f581afe-1fc1-4618-9a5b-e0a464e6fbe5)
+![image](https://github.com/user-attachments/assets/b33e6d11-004f-482f-b163-558260dc5252)
+
+
+
+
 
 
 ## Gradle Report Screenshots:
