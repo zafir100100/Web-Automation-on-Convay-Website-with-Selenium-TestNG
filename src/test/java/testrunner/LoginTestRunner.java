@@ -1,7 +1,6 @@
 package testrunner;
 
 import io.qameta.allure.Allure;
-import models.ApplicationConfiguration;
 import org.testng.annotations.Test;
 import pages.*;
 import setup.Setup;
