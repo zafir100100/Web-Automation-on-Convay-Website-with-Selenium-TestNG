@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="WallTouchBd admin functionality Automation Suite">
+    <test name="Admin can perform all functionalities successfully">
+        <classes>
+            <class name="testrunner.LoginTestRunner"/>
+        </classes>
+    </test>
+</suite>
